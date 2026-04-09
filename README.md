@@ -3,7 +3,7 @@ Test cases and testing practice from personal projects and web applications.
 
 # Testing Practice
 
-This repository contains test cases created as part of my learning journey in QA and software testing.
+This repository contains test cases created as part of my learning journey in software testing.
 
 ## 📌 About
 I’m transitioning into tech with a focus on testing.  
@@ -18,7 +18,7 @@ Here I document how I analyze applications, find issues, and think through diffe
 docs/
 └── test-cases/
    ├── weather-app.md
-   ├── login.md
+   ├── portafoliov2.md
    ├── checkout.md
    └── cart.md
 
