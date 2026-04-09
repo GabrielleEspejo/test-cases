@@ -1,4 +1,4 @@
-# Portfolio Website - Bugs
+# PortfolioV2 Website - Bugs
 
 ## Bug 001 - Weak visual hierarchy
 Severity: Medium  
